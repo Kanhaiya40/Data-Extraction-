@@ -29,3 +29,4 @@ def print_output():
 
 item_id_vs_avg_quantity_per_sessions()
 print_output()
+purchase_events.close()

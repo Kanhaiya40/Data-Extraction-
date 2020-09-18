@@ -23,3 +23,5 @@ def print_output():
 
 item_id_vs_number_of_session()
 print_output()
+
+purchase_events.close()
